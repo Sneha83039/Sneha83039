@@ -1,4 +1,4 @@
-![logo](https://github.com/Sneha83039/Sneha83039/blob/main/Navy Blue Geometric Technology LinkedIn Banner.png)
+![logo](https://github.com/Sneha83039/Sneha83039/blob/main/IMG.png)
 <h1 align="
 center">Hi 👋, I'm Sneha Singh</h1>
 <h3 align="center">A passionate Java Fullstack developer from India</h3>
